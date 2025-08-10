@@ -82,6 +82,6 @@ CyberShield is licensed under the MIT License - see the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to reach out:
 
-* **Ravi**: [ravithejareddy1289@gmail.com](mailto:ravithejareddy1289@gmail.com)
+* **Durga Prasad**: [seelamdurgaprasad5442@gmail.com](mailto:seelamdurgaprasad5442@gmail.com)
 
 
