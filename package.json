@@ -1,0 +1,31 @@
+{
+  "name": "cybershield",
+  "version": "1.0.0",
+  "description": "CyberShield - Email Spam Detection and Website Security Scanner",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "cd cyber-shield && npm install && npm run build",
+    "dev": "nodemon server.js",
+    "install-client": "cd cyber-shield && npm install",
+    "build-client": "cd cyber-shield && npm run build",
+    "heroku-postbuild": "npm run install-client && npm run build-client"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "keywords": ["cybersecurity", "spam-detection", "website-scanner", "react", "nodejs"],
+  "author": "Your Name",
+  "license": "MIT"
+}

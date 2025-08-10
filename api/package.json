@@ -1,0 +1,12 @@
+{
+  "name": "cybershield-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "@vercel/node": "^3.0.0",
+    "axios": "^1.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.20",
+    "typescript": "^5.3.3"
+  }
+}
